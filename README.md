@@ -1,7 +1,6 @@
 # Bethanys-pie-shop
-E-commerce web application for selling pies implemented using asp.net 6 designed with MVC pattern 
+E-commerce web application for selling pies implemented using asp.net 6 designed with MVC pattern\n
 Techonlogies & skills
-
 -Asp.net 6 MVC       	-Microsoft identity
 
 -Bootstrap
