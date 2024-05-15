@@ -5,84 +5,87 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BethanysPieShop
 build_property.RootNamespace = BethanysPieShop
-build_property.ProjectDir = F:\Elbaz\projects\Back-End\Bethanys-pie-shop\BethanysShop\BethanysPieShop\
+build_property.ProjectDir = D:\Projects\Bethanys-pie-shop\BethanysShop\BethanysPieShop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Elbaz\projects\Back-End\Bethanys-pie-shop\BethanysShop\BethanysPieShop
+build_property.MSBuildProjectDirectory = D:\Projects\Bethanys-pie-shop\BethanysShop\BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Contact/Index.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Home/Index.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Order/CheckOut.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Order/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Order/CheckOutComplete.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Order/CheckOutComplete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tPdXRDb21wbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Pie/Details.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Pie/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Pie/Index.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Pie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Components/CategoryNav/Default.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Components/CategoryNav/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlOYXZcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Components/ShoppingcartSummary/Default.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Components/ShoppingcartSummary/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdjYXJ0U3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Error.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_Carousel.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_PieCard.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_PieCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVDYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/_ViewImports.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/_ViewStart.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Elbaz/projects/Back-End/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
+[D:/Projects/Bethanys-pie-shop/BethanysShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h6c20ygmcm

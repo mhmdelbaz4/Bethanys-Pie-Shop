@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Elbaz\\projects\\Back-End\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "D:\\Projects\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "F:\\Elbaz\\projects\\Back-End\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "D:\\Projects\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Elbaz\\projects\\Back-End\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "D:\\Projects\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "F:\\Elbaz\\projects\\Back-End\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj",
-        "packagesPath": "C:\\Users\\mhmde\\.nuget\\packages\\",
-        "outputPath": "F:\\Elbaz\\projects\\Back-End\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\obj\\",
+        "projectPath": "D:\\Projects\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "packagesPath": "C:\\Users\\Elbaz\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Bethanys-pie-shop\\BethanysShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mhmde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elbaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
